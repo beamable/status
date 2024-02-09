@@ -6,9 +6,6 @@ sites:
   - name: Beamable Auth (Basic)
     url: https://api.beamable.com/basic/auth/platform/docs
     maxResponseTime: 3000
-  - name: Beamable Auth (Object)
-    url: https://api.beamable.com/object/auth/platform/docs
-    maxResponseTime: 3000
   - name: Beamable Accounts (Basic)
     url: https://api.beamable.com/basic/accounts/platform/docs
     maxResponseTime: 3000
@@ -31,7 +28,8 @@ sites:
 status-website:
   favicon: https://files.readme.io/e5eba19-small-beamable-favicon.png
   logoUrl: https://beamable.com/wp-content/uploads/2022/02/hero-isolated_logo.svg
-  themeUrl: https://beamable.github.io/status/custom-theme.css
+  # themeUrl: https://beamable.github.io/status/custom-theme.css
+  theme: night
 
   baseUrl: /status
   name: Beamable Status
