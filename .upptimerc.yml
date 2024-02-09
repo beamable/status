@@ -9,7 +9,8 @@ sites:
 
 status-website:
   favicon: https://files.readme.io/e5eba19-small-beamable-favicon.png
-  theme: custom-theme
+  logoUrl: https://beamable.com/wp-content/uploads/2022/02/hero-isolated_logo.svg
+  themeUrl: https://beamable.github.io/status/custom-theme.css
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
@@ -20,7 +21,9 @@ status-website:
   introMessage: This is the Beamable API status page.
   navbar:
     - title: Status
-      href: /
+      href: /status
+    - title: Docs
+      href: https://docs.beamable.com/docs/beamable-overview
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
