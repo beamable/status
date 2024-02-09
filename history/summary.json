@@ -491,18 +491,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.beamable.com.ico",
     "slug": "beamable-calendars-basic",
     "status": "degraded",
-    "uptime": "61.51%",
-    "uptimeDay": "61.51%",
-    "uptimeWeek": "61.51%",
-    "uptimeMonth": "61.51%",
-    "uptimeYear": "61.51%",
+    "uptime": "44.77%",
+    "uptimeDay": "44.77%",
+    "uptimeWeek": "44.77%",
+    "uptimeMonth": "44.77%",
+    "uptimeYear": "44.77%",
     "time": 10571,
     "timeDay": 10571,
     "timeWeek": 10571,
     "timeMonth": 10571,
     "timeYear": 10571,
     "dailyMinutesDown": {
-      "2024-02-09": 0
+      "2024-02-09": 1
     }
   },
   {
