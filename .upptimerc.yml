@@ -24,12 +24,24 @@ sites:
   - name: Beamable Stats (Object)
     url: https://api.beamable.com/object/stats/platform/docs
     maxResponseTime: 3000
+  - name: Beamable Beamo (Basic)
+    url: https://api.beamable.com/basic/beamo/platform/docs
+    maxResponseTime: 3000
+  - name: Beamable Event Players (Object)
+    url: https://api.beamable.com/object/event-players/platform/docs
+    maxResponseTime: 3000
+  - name: Beamable Events (Basic)
+    url: https://api.beamable.com/basic/events/platform/docs
+    maxResponseTime: 3000
+  - name: Beamable Events (Object)
+    url: https://api.beamable.com/object/events/platform/docs
+    maxResponseTime: 3000
 
 status-website:
   favicon: https://files.readme.io/e5eba19-small-beamable-favicon.png
   logoUrl: https://beamable.com/wp-content/uploads/2022/02/hero-isolated_logo.svg
-  # themeUrl: https://beamable.github.io/status/custom-theme.css
-  theme: night
+  themeUrl: https://raw.githubusercontent.com/beamable/status/master/assets/custom-theme.css
+  # theme: night
 
   baseUrl: /status
   name: Beamable Status
