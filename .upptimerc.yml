@@ -1,7 +1,7 @@
 # Change these first
 owner: beamable # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
-
+runner: ["status-agent"]
 sites:
   - name: Beamable Auth (Basic)
     url: https://api.beamable.com/basic/auth/platform/docs
@@ -66,6 +66,7 @@ sites:
   - name: Beamable Cloud Saving (Basic)
     url: https://api.beamable.com/basic/cloudsaving/platform/docs
     maxResponseTime: 3000
+    icon: https://beamable.com/wp-content/uploads/2024/02/CloudSave_BLUE.png
   - name: Beamable Notification (Basic)
     url: https://api.beamable.com/basic/notification/platform/docs
     maxResponseTime: 3000
@@ -93,9 +94,11 @@ sites:
   - name: Beamable Events (Basic)
     url: https://api.beamable.com/basic/events/platform/docs
     maxResponseTime: 3000
+    icon: https://beamable.com/wp-content/uploads/2024/02/Events_BLUE.png
   - name: Beamable Events (Object)
     url: https://api.beamable.com/object/events/platform/docs
     maxResponseTime: 3000
+    icon: https://beamable.com/wp-content/uploads/2024/02/Events_BLUE.png
   - name: Beamable Groups (Object)
     url: https://api.beamable.com/object/groups/platform/docs
     maxResponseTime: 3000
@@ -108,6 +111,7 @@ sites:
   - name: Beamable Portal
     url: https://portal.beamable.com/
     maxResponseTime: 3000
+    icon: https://beamable.com/wp-content/uploads/2024/02/AdminPortal_BLUE.png
 
 
 status-website:
