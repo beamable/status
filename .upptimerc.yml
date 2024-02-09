@@ -24,8 +24,62 @@ sites:
   - name: Beamable Stats (Object)
     url: https://api.beamable.com/object/stats/platform/docs
     maxResponseTime: 3000
+  - name: Beamable Leaderboards (Basic)
+    url: https://api.beamable.com/basic/leaderboards/platform/docs
+    maxResponseTime: 3000
+  - name: Beamable Leaderboards (Object)
+    url: https://api.beamable.com/object/leaderboards/platform/docs
+    maxResponseTime: 3000
+  - name: Beamable Tournaments (Basic)
+    url: https://api.beamable.com/basic/tournaments/platform/docs
+    maxResponseTime: 3000
+  - name: Beamable Tournaments (Object)
+    url: https://api.beamable.com/object/tournaments/platform/docs
+    maxResponseTime: 3000
+  - name: Beamable Payments (Basic)
+    url: https://api.beamable.com/basic/payments/platform/docs
+    maxResponseTime: 3000
+  - name: Beamable Payments (Object)
+    url: https://api.beamable.com/object/payments/platform/docs
+    maxResponseTime: 3000
+  - name: Beamable Commerce (Basic)
+    url: https://api.beamable.com/basic/commerce/platform/docs
+    maxResponseTime: 3000
+  - name: Beamable Commerce (Object)
+    url: https://api.beamable.com/object/commerce/platform/docs
+    maxResponseTime: 3000
+  - name: Beamable Announcements (Basic)
+    url: https://api.beamable.com/basic/announcements/platform/docs
+    maxResponseTime: 3000
+  - name: Beamable Announcements (Object)
+    url: https://api.beamable.com/object/announcements/platform/docs
+    maxResponseTime: 3000
+  - name: Beamable Mail (Basic)
+    url: https://api.beamable.com/basic/mail/platform/docs
+    maxResponseTime: 3000
+  - name: Beamable Mail (Object)
+    url: https://api.beamable.com/object/mail/platform/docs
+    maxResponseTime: 3000
   - name: Beamable Beamo (Basic)
     url: https://api.beamable.com/basic/beamo/platform/docs
+    maxResponseTime: 3000
+  - name: Beamable Cloud Saving (Basic)
+    url: https://api.beamable.com/basic/cloudsaving/platform/docs
+    maxResponseTime: 3000
+  - name: Beamable Notification (Basic)
+    url: https://api.beamable.com/basic/notification/platform/docs
+    maxResponseTime: 3000
+  - name: Beamable Push (Basic)
+    url: https://api.beamable.com/basic/push/platform/docs
+    maxResponseTime: 3000
+  - name: Beamable Session (Basic)
+    url: https://api.beamable.com/basic/session/platform/docs
+    maxResponseTime: 3000
+  - name: Beamable Realms (Basic)
+    url: https://api.beamable.com/basic/realms/platform/docs
+    maxResponseTime: 3000
+  - name: Beamable Social (Basic)
+    url: https://api.beamable.com/basic/social/platform/docs
     maxResponseTime: 3000
   - name: Beamable Event Players (Object)
     url: https://api.beamable.com/object/event-players/platform/docs
@@ -36,12 +90,18 @@ sites:
   - name: Beamable Events (Object)
     url: https://api.beamable.com/object/events/platform/docs
     maxResponseTime: 3000
+  - name: Beamable Groups (Object)
+    url: https://api.beamable.com/object/groups/platform/docs
+    maxResponseTime: 3000
+  - name: Beamable Group Users (Object)
+    url: https://api.beamable.com/object/group-users/platform/docs
+    maxResponseTime: 3000
 
 status-website:
   favicon: https://files.readme.io/e5eba19-small-beamable-favicon.png
   logoUrl: https://beamable.com/wp-content/uploads/2022/02/hero-isolated_logo.svg
-  # themeUrl: https://raw.githubusercontent.com/beamable/status/master/assets/custom-theme.css
-  theme: night
+  themeUrl: https://beamable.github.io/status/themes/custom.css
+  # theme: night
 
   baseUrl: /status
   name: Beamable Status
@@ -52,8 +112,8 @@ status-website:
       href: https://docs.beamable.com/docs/beamable-overview
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  links:
-    - rel: stylesheet
-      href: https://raw.githubusercontent.com/beamable/status/master/assets/custom-theme.css
+  # links:
+  #   - rel: stylesheet
+  #     href: https://raw.githubusercontent.com/beamable/status/master/assets/custom-theme.css
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
