@@ -26,7 +26,7 @@ sites:
     maxResponseTime: 3000
   - name: Beamable Leaderboards (Basic)
     url: https://api.beamable.com/basic/leaderboards/platform/docs
-    maxResponseTime: 1000
+    maxResponseTime: 3000
   - name: Beamable Leaderboards (Object)
     url: https://api.beamable.com/object/leaderboards/platform/docs
     maxResponseTime: 3000
