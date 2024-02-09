@@ -107,8 +107,8 @@ sites:
 status-website:
   favicon: https://files.readme.io/e5eba19-small-beamable-favicon.png
   logoUrl: https://beamable.com/wp-content/uploads/2022/02/hero-isolated_logo.svg
-  themeUrl: https://beamable.github.io/status/themes/custom.css
-  # theme: night
+  #themeUrl: https://beamable.github.io/status/themes/custom.css
+  theme: night
 
   baseUrl: /status
   name: Beamable Status
