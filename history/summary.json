@@ -130,19 +130,19 @@
     "url": "https://api.beamable.com/basic/leaderboards/platform/docs",
     "icon": "https://icons.duckduckgo.com/ip3/api.beamable.com.ico",
     "slug": "beamable-leaderboards-basic",
-    "status": "degraded",
-    "uptime": "98.97%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "98.97%",
-    "uptimeMonth": "98.97%",
-    "uptimeYear": "98.97%",
-    "time": 1012,
-    "timeDay": 1012,
-    "timeWeek": 1012,
-    "timeMonth": 1012,
-    "timeYear": 1012,
+    "status": "up",
+    "uptime": "97.17%",
+    "uptimeDay": "97.17%",
+    "uptimeWeek": "97.17%",
+    "uptimeMonth": "97.17%",
+    "uptimeYear": "97.17%",
+    "time": 896,
+    "timeDay": 896,
+    "timeWeek": 896,
+    "timeMonth": 896,
+    "timeYear": 896,
     "dailyMinutesDown": {
-      "2024-02-09": 1
+      "2024-02-09": 2
     }
   },
   {
