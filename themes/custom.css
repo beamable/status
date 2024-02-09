@@ -3,11 +3,14 @@ article.link.graph {
   padding-left: 80px;
 }
 
-article > h4 > img {
+section.live-status article.link.graph > h4 > img.icon {
   position: absolute;
-  left: 4px;
-  width: 70px;
-  height: 70px;
+  left: 8px;
+  top: 25px;
+  width: 65px;
+  height: 65px;
+  filter:grayscale(.5) hue-rotate(331deg) drop-shadow(2px 4px 6px rgba(0,0,0,.3));
+  clip-path: xywh(0 0px 100% 90% round 0% 0);
 }
 
 :root {
