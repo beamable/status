@@ -163,8 +163,8 @@ status-website:
       href: https://docs.beamable.com/docs/beamable-overview
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  # links:
-  #   - rel: stylesheet
-  #     href: https://raw.githubusercontent.com/beamable/status/master/assets/themes/custom.css
+  links:
+    - rel: stylesheet
+      href: https://raw.githubusercontent.com/beamable/status/master/assets/themes/custom.css
   i18n:
     footer: Response times are calculated from AWS US-WEST2, powered by [Upptime](https://upptime.js.org)
