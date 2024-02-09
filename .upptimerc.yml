@@ -40,20 +40,20 @@ sites:
 status-website:
   favicon: https://files.readme.io/e5eba19-small-beamable-favicon.png
   logoUrl: https://beamable.com/wp-content/uploads/2022/02/hero-isolated_logo.svg
-  themeUrl: https://raw.githubusercontent.com/beamable/status/master/assets/custom-theme.css
-  # theme: night
+  # themeUrl: https://raw.githubusercontent.com/beamable/status/master/assets/custom-theme.css
+  theme: night
 
   baseUrl: /status
   name: Beamable Status
   introTitle: "Beamable API Status"
   introMessage: We are paying attention to our APIs, and we're always working on them.
   navbar:
-    - title: Status
-      href: /status
     - title: Docs
       href: https://docs.beamable.com/docs/beamable-overview
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
+  links:
+    - rel: stylesheet
+      href: https://raw.githubusercontent.com/beamable/status/master/assets/custom-theme.css
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
