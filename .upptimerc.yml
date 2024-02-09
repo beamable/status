@@ -6,63 +6,87 @@ sites:
   - name: Beamable Auth (Basic)
     url: https://api.beamable.com/basic/auth/platform/docs
     maxResponseTime: 3000
+    icon: https://beamable.com/wp-content/uploads/2024/02/Profiles_BLUE.png
+  - name: Beamable Content (Basic)
+    url: https://api.beamable.com/basic/content/platform/docs
+    maxResponseTime: 3000
+    icon: https://beamable.com/wp-content/uploads/2024/02/Content_BLUE.png
   - name: Beamable Accounts (Basic)
     url: https://api.beamable.com/basic/accounts/platform/docs
     maxResponseTime: 3000
+    icon: https://beamable.com/wp-content/uploads/2024/02/Profiles_BLUE.png
   - name: Beamable Accounts (Object)
     url: https://api.beamable.com/object/accounts/platform/docs
     maxResponseTime: 3000
+    icon: https://beamable.com/wp-content/uploads/2024/02/Profiles_BLUE.png
   - name: Beamable Inventory (Basic)
     url: https://api.beamable.com/basic/inventory/platform/docs
     maxResponseTime: 3000
+    icon: https://beamable.com/wp-content/uploads/2024/02/Inventory_BLUE.png
   - name: Beamable Inventory (Object)
     url: https://api.beamable.com/object/inventory/platform/docs
     maxResponseTime: 3000
+    icon: https://beamable.com/wp-content/uploads/2024/02/Inventory_BLUE.png
   - name: Beamable Stats (Basic)
     url: https://api.beamable.com/basic/stats/platform/docs
     maxResponseTime: 3000
+    icon: https://beamable.com/wp-content/uploads/2024/02/Analytics_BLUE.png
   - name: Beamable Stats (Object)
     url: https://api.beamable.com/object/stats/platform/docs
     maxResponseTime: 3000
+    icon: https://beamable.com/wp-content/uploads/2024/02/Analytics_BLUE.png
   - name: Beamable Leaderboards (Basic)
     url: https://api.beamable.com/basic/leaderboards/platform/docs
     maxResponseTime: 1000
+    icon: https://beamable.com/wp-content/uploads/2024/02/Leaderboard_BLUE.png
   - name: Beamable Leaderboards (Object)
     url: https://api.beamable.com/object/leaderboards/platform/docs
     maxResponseTime: 3000
+    icon: https://beamable.com/wp-content/uploads/2024/02/Leaderboard_BLUE.png
   - name: Beamable Tournaments (Basic)
     url: https://api.beamable.com/basic/tournaments/platform/docs
     maxResponseTime: 3000
+    icon: https://beamable.com/wp-content/uploads/2024/02/BattleTested_BLUE.png
   - name: Beamable Tournaments (Object)
     url: https://api.beamable.com/object/tournaments/platform/docs
     maxResponseTime: 3000
+    icon: https://beamable.com/wp-content/uploads/2024/02/BattleTested_BLUE.png
   - name: Beamable Payments (Basic)
     url: https://api.beamable.com/basic/payments/platform/docs
     maxResponseTime: 3000
+    icon: https://beamable.com/wp-content/uploads/2024/02/Payments_BLUE.png
   - name: Beamable Payments (Object)
     url: https://api.beamable.com/object/payments/platform/docs
     maxResponseTime: 3000
+    icon: https://beamable.com/wp-content/uploads/2024/02/Payments_BLUE.png
   - name: Beamable Commerce (Basic)
     url: https://api.beamable.com/basic/commerce/platform/docs
     maxResponseTime: 3000
+    icon: https://beamable.com/wp-content/uploads/2024/02/Currency_BLUE.png
   - name: Beamable Commerce (Object)
     url: https://api.beamable.com/object/commerce/platform/docs
     maxResponseTime: 3000
+    icon: https://beamable.com/wp-content/uploads/2024/02/Currency_BLUE.png
   - name: Beamable Announcements (Basic)
     url: https://api.beamable.com/basic/announcements/platform/docs
     maxResponseTime: 3000
+    icon: https://beamable.com/wp-content/uploads/2024/02/Chat_BLUE.png
   - name: Beamable Announcements (Object)
     url: https://api.beamable.com/object/announcements/platform/docs
     maxResponseTime: 3000
+    icon: https://beamable.com/wp-content/uploads/2024/02/Chat_BLUE.png
   - name: Beamable Mail (Basic)
     url: https://api.beamable.com/basic/mail/platform/docs
     maxResponseTime: 3000
+    icon: https://beamable.com/wp-content/uploads/2024/02/Mail_BLUE.png
   - name: Beamable Mail (Object)
     url: https://api.beamable.com/object/mail/platform/docs
     maxResponseTime: 3000
+    icon: https://beamable.com/wp-content/uploads/2024/02/Mail_BLUE.png
   - name: Beamable Beamo (Basic)
     url: https://api.beamable.com/basic/beamo/platform/docs
     maxResponseTime: 3000
+    icon: https://beamable.com/wp-content/uploads/2024/02/AWS_BLUE.png
   - name: Beamable Cloud Saving (Basic)
     url: https://api.beamable.com/basic/cloudsaving/platform/docs
     maxResponseTime: 3000
@@ -70,27 +94,35 @@ sites:
   - name: Beamable Notification (Basic)
     url: https://api.beamable.com/basic/notification/platform/docs
     maxResponseTime: 3000
+    icon: https://beamable.com/wp-content/uploads/2024/02/Alerts_BLUE.png
   - name: Beamable Push (Basic)
     url: https://api.beamable.com/basic/push/platform/docs
     maxResponseTime: 3000
+    icon: https://beamable.com/wp-content/uploads/2024/02/Beamable_BLUE.png
   - name: Beamable Session (Basic)
     url: https://api.beamable.com/basic/session/platform/docs
     maxResponseTime: 3000
+    icon: https://beamable.com/wp-content/uploads/2024/02/API_BLUE.png
   - name: Beamable Realms (Basic)
     url: https://api.beamable.com/basic/realms/platform/docs
     maxResponseTime: 3000
+    icon: https://beamable.com/wp-content/uploads/2024/02/GameDeveloper_BLUE.png
   - name: Beamable Social (Basic)
     url: https://api.beamable.com/basic/social/platform/docs
     maxResponseTime: 3000
+    icon: https://beamable.com/wp-content/uploads/2024/02/Social_BLUE.png
   - name: Beamable Trials (Basic)
     url: https://api.beamable.com/basic/trials/platform/docs
     maxResponseTime: 3000
+    icon: https://beamable.com/wp-content/uploads/2024/02/Trial_BLUE.png
   - name: Beamable Calendars (Basic)
     url: https://api.beamable.com/object/calendars/platform/docs
     maxResponseTime: 3000
+    icon: https://beamable.com/wp-content/uploads/2024/02/Beamable_BLUE.png
   - name: Beamable Event Players (Object)
     url: https://api.beamable.com/object/event-players/platform/docs
     maxResponseTime: 3000
+    icon: https://beamable.com/wp-content/uploads/2024/02/Events_BLUE.png
   - name: Beamable Events (Basic)
     url: https://api.beamable.com/basic/events/platform/docs
     maxResponseTime: 3000
@@ -102,12 +134,15 @@ sites:
   - name: Beamable Groups (Object)
     url: https://api.beamable.com/object/groups/platform/docs
     maxResponseTime: 3000
+    icon: https://beamable.com/wp-content/uploads/2024/02/Guilds_BLUE.png
   - name: Beamable Group Users (Object)
     url: https://api.beamable.com/object/group-users/platform/docs
     maxResponseTime: 3000
+    icon: https://beamable.com/wp-content/uploads/2024/02/Guilds_BLUE.png
   - name: Beamable Proto Actor Stack
     url: https://api.beamable.com/api/health
     maxResponseTime: 3000
+    icon: https://beamable.com/wp-content/uploads/2024/02/AdvancedTechnology_BLUE.png
   - name: Beamable Portal
     url: https://portal.beamable.com/
     maxResponseTime: 3000
@@ -117,7 +152,6 @@ sites:
 status-website:
   favicon: https://files.readme.io/e5eba19-small-beamable-favicon.png
   logoUrl: https://beamable.com/wp-content/uploads/2022/02/hero-isolated_logo.svg
-  # themeUrl: https://beamable.github.io/status/themes/custom.css
   theme: night
 
   baseUrl: /status
@@ -132,5 +166,5 @@ status-website:
   links:
     - rel: stylesheet
       href: https://raw.githubusercontent.com/beamable/status/master/assets/themes/custom.css
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+  i18n:
+    footer: Response times are calculated from AWS US-WEST2, powered by [Upptime](https://upptime.js.org)
