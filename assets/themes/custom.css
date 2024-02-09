@@ -1,9 +1,9 @@
 :root {
-    --body-background-color: #292F36;
+    --body-background-color: #3D56B8;
     --body-text-color: #f0ffff;
-    --card-background-color: #3D56B8;
+    --card-background-color: #292F36;
     --nav-background-color: #292F36;
-    --nav-border-bottom-color: #4367f8;
+    --nav-border-bottom-color: #364b9f;
     --nav-current-border-bottom-color: #89a0ff;
     --card-border-color: #4367f8;
     --down-border-left-color: #eb3b5a;
@@ -24,3 +24,7 @@
     --graph-opacity: .9;
     --graph-filter: none;
   }
+/* 
+  grey 292F36
+
+  purple 3D56B8 */
