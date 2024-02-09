@@ -96,6 +96,13 @@ sites:
   - name: Beamable Group Users (Object)
     url: https://api.beamable.com/object/group-users/platform/docs
     maxResponseTime: 3000
+  - name: Beamable Proto Actor Stack
+    url: https://api.beamable.com/api/health
+    maxResponseTime: 3000
+  - name: Beamable Portal
+    url: https://portal.beamable.com/
+    maxResponseTime: 3000
+
 
 status-website:
   favicon: https://files.readme.io/e5eba19-small-beamable-favicon.png
