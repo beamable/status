@@ -26,7 +26,7 @@ sites:
     maxResponseTime: 3000
   - name: Beamable Leaderboards (Basic)
     url: https://api.beamable.com/basic/leaderboards/platform/docs
-    maxResponseTime: 3000
+    maxResponseTime: 1000
   - name: Beamable Leaderboards (Object)
     url: https://api.beamable.com/object/leaderboards/platform/docs
     maxResponseTime: 3000
@@ -80,6 +80,12 @@ sites:
     maxResponseTime: 3000
   - name: Beamable Social (Basic)
     url: https://api.beamable.com/basic/social/platform/docs
+    maxResponseTime: 3000
+  - name: Beamable Trials (Basic)
+    url: https://api.beamable.com/basic/trials/platform/docs
+    maxResponseTime: 3000
+  - name: Beamable Calendars (Basic)
+    url: https://api.beamable.com/basic/calendars/platform/docs
     maxResponseTime: 3000
   - name: Beamable Event Players (Object)
     url: https://api.beamable.com/object/event-players/platform/docs
