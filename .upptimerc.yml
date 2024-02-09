@@ -117,7 +117,7 @@ sites:
 status-website:
   favicon: https://files.readme.io/e5eba19-small-beamable-favicon.png
   logoUrl: https://beamable.com/wp-content/uploads/2022/02/hero-isolated_logo.svg
-  themeUrl: https://beamable.github.io/status/themes/custom.css
+  # themeUrl: https://beamable.github.io/status/themes/custom.css
   theme: night
 
   baseUrl: /status
@@ -129,8 +129,8 @@ status-website:
       href: https://docs.beamable.com/docs/beamable-overview
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  # links:
-  #   - rel: stylesheet
-  #     href: https://raw.githubusercontent.com/beamable/status/master/assets/custom-theme.css
+  links:
+    - rel: stylesheet
+      href: https://raw.githubusercontent.com/beamable/status/master/assets/themes/custom.css
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
