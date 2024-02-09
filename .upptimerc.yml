@@ -154,15 +154,15 @@ i18n:
 status-website:
   favicon: https://files.readme.io/e5eba19-small-beamable-favicon.png
   logoUrl: https://beamable.com/wp-content/uploads/2022/02/hero-isolated_logo.svg
-  theme: night
-  # themeUrl: https://beamable.github.io/status/themes/custom.css
+  # theme: night
+  themeUrl: https://beamable.github.io/status/themes/custom.css
   baseUrl: /status
   name: Beamable Status
   introTitle: "Beamable API Status"
   introMessage: We are paying attention to our APIs, and we're always working on them.
-  links:
-    - rel: stylesheet
-      href: https://raw.githubusercontent.com/beamable/status/master/assets/themes/custom.css
+  # links:
+  #   - rel: stylesheet
+  #     href: https://raw.githubusercontent.com/beamable/status/master/assets/themes/custom.css
   navbar:
     - title: Docs
       href: https://docs.beamable.com/docs/beamable-overview
