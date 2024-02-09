@@ -153,7 +153,7 @@ status-website:
   favicon: https://files.readme.io/e5eba19-small-beamable-favicon.png
   logoUrl: https://beamable.com/wp-content/uploads/2022/02/hero-isolated_logo.svg
   theme: night
-
+  themeUrl: https://beamable.github.io/status/themes/custom.css
   baseUrl: /status
   name: Beamable Status
   introTitle: "Beamable API Status"
@@ -163,8 +163,8 @@ status-website:
       href: https://docs.beamable.com/docs/beamable-overview
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  links:
-    - rel: stylesheet
-      href: https://raw.githubusercontent.com/beamable/status/master/assets/themes/custom.css
-  i18n:
-    footer: Response times are calculated from AWS US-WEST2, powered by [Upptime](https://upptime.js.org)
+  # links:
+  #   - rel: stylesheet
+  #     href: https://raw.githubusercontent.com/beamable/status/master/assets/themes/custom.css
+i18n:
+  footer: Response times are calculated from AWS US-WEST2, powered by [Upptime](https://upptime.js.org)
