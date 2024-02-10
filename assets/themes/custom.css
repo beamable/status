@@ -14,10 +14,13 @@ section.live-status article.link.graph > h4 > img.icon {
 }
 
 @media (width <= 580px) {
-  article.link.graph {
+  main.container section.live-status article.link.graph {
     padding-bottom: 80px;
     background-size: 90% 80px;
     background-position: bottom;
+  }
+  a.logo > div {
+    display: none;
   }
 }
 
