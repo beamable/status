@@ -13,6 +13,15 @@ section.live-status article.link.graph > h4 > img.icon {
   clip-path: polygon(0% 0%, 100% 00%, 100% 90%, 00% 90%);
 }
 
+@media (width <= 580px) {
+  section.live-status article.link.graph > h4 > img.icon {
+    padding-bottom: 80px;
+    background-size: 90% 80px;
+    background-position: bottom;
+  }
+}
+
+
 :root {
   --body-background-color: #0d1117;
   --body-text-color: #c9d1d9;
