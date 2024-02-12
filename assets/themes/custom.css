@@ -1,7 +1,19 @@
-article.link.graph {
+section.live-status {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 10px;
+  row-gap: 1em;
+}
+
+#sapper main.container article.up.link.graph {
   position: relative;
   padding-left: 80px;
+
+  /* The graphs are relative in scale, which makes them not 'that' useful, so we hide them. */
+  background-image: none;
+  margin-top: 8px;
 }
+
 
 section.live-status article.link.graph > h4 > img.icon {
   position: absolute;
@@ -14,11 +26,11 @@ section.live-status article.link.graph > h4 > img.icon {
 }
 
 @media (width <= 580px) {
+  section.live-status {
+    grid-template-columns: 1fr;
+  }
   main.container section.live-status article.link.graph {
-    padding-bottom: 80px;
     margin-bottom: 30px;
-    background-size: 90% 60px;
-    background-position: bottom;
   }
   a.logo > div {
     display: none;
