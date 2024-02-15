@@ -1,7 +1,7 @@
 url: https://api.beamable.com/basic/leaderboards/platform/docs
-status: up
+status: degraded
 code: 200
-responseTime: 574
-lastUpdated: 2024-02-14T23:03:59.463Z
+responseTime: 1441
+lastUpdated: 2024-02-15T05:02:18.635Z
 startTime: 2024-02-09T11:46:38.153Z
 generator: Upptime <https://github.com/upptime/upptime>
