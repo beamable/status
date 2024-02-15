@@ -310,19 +310,19 @@
     "url": "https://api.beamable.com/object/announcements/platform/docs",
     "icon": "https://beamable.com/wp-content/uploads/2024/02/Chat_BLUE.png",
     "slug": "beamable-announcements-object",
-    "status": "degraded",
-    "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 371,
-    "timeDay": 5243,
-    "timeWeek": 371,
-    "timeMonth": 371,
-    "timeYear": 371,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 427,
+    "timeDay": 4291,
+    "timeWeek": 427,
+    "timeMonth": 427,
+    "timeYear": 427,
     "dailyMinutesDown": {
-      "2024-02-15": 0
+      "2024-02-15": 12
     }
   },
   {
@@ -529,19 +529,17 @@
     "icon": "https://beamable.com/wp-content/uploads/2024/02/Events_BLUE.png",
     "slug": "beamable-event-players-object",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 400,
     "timeDay": 4271,
     "timeWeek": 400,
     "timeMonth": 400,
     "timeYear": 400,
-    "dailyMinutesDown": {
-      "2024-02-15": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Beamable Events (Basic)",
