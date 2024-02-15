@@ -1,7 +1,7 @@
 url: https://api.beamable.com/object/event-players/platform/docs
-status: degraded
-code: 503
-responseTime: 12794
-lastUpdated: 2024-02-15T03:53:02.431Z
+status: up
+code: 200
+responseTime: 11
+lastUpdated: 2024-02-15T04:02:31.863Z
 startTime: 2024-02-09T11:10:27.588Z
 generator: Upptime <https://github.com/upptime/upptime>
