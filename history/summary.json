@@ -528,18 +528,20 @@
     "url": "https://api.beamable.com/object/event-players/platform/docs",
     "icon": "https://beamable.com/wp-content/uploads/2024/02/Events_BLUE.png",
     "slug": "beamable-event-players-object",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 363,
-    "timeDay": 5,
-    "timeWeek": 1286,
-    "timeMonth": 363,
-    "timeYear": 363,
-    "dailyMinutesDown": {}
+    "time": 607,
+    "timeDay": 5444,
+    "timeWeek": 2159,
+    "timeMonth": 607,
+    "timeYear": 607,
+    "dailyMinutesDown": {
+      "2024-02-19": 0
+    }
   },
   {
     "name": "Beamable Events (Basic)",
