@@ -583,19 +583,17 @@
     "icon": "https://beamable.com/wp-content/uploads/2024/02/Guilds_BLUE.png",
     "slug": "beamable-groups-object",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 361,
     "timeDay": 5033,
     "timeWeek": 1284,
     "timeMonth": 361,
     "timeYear": 361,
-    "dailyMinutesDown": {
-      "2024-02-20": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Beamable Group Users (Object)",
