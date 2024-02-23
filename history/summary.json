@@ -148,18 +148,20 @@
     "url": "https://api.beamable.com/basic/leaderboards/platform/docs",
     "icon": "https://beamable.com/wp-content/uploads/2024/02/Leaderboard_BLUE.png",
     "slug": "beamable-leaderboards-basic",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 461,
-    "timeDay": 675,
-    "timeWeek": 578,
-    "timeMonth": 461,
-    "timeYear": 461,
-    "dailyMinutesDown": {}
+    "time": 474,
+    "timeDay": 901,
+    "timeWeek": 624,
+    "timeMonth": 474,
+    "timeYear": 474,
+    "dailyMinutesDown": {
+      "2024-02-23": 0
+    }
   },
   {
     "name": "Beamable Leaderboards (Object)",
