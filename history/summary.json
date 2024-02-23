@@ -149,19 +149,17 @@
     "icon": "https://beamable.com/wp-content/uploads/2024/02/Leaderboard_BLUE.png",
     "slug": "beamable-leaderboards-basic",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 477,
     "timeDay": 810,
     "timeWeek": 624,
     "timeMonth": 477,
     "timeYear": 477,
-    "dailyMinutesDown": {
-      "2024-02-23": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Beamable Leaderboards (Object)",
@@ -476,18 +474,20 @@
     "url": "https://api.beamable.com/basic/social/platform/docs",
     "icon": "https://beamable.com/wp-content/uploads/2024/02/Social_BLUE.png",
     "slug": "beamable-social-basic",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 44,
-    "timeDay": 8,
-    "timeWeek": 11,
-    "timeMonth": 44,
-    "timeYear": 44,
-    "dailyMinutesDown": {}
+    "time": 280,
+    "timeDay": 5087,
+    "timeWeek": 1280,
+    "timeMonth": 280,
+    "timeYear": 280,
+    "dailyMinutesDown": {
+      "2024-02-23": 0
+    }
   },
   {
     "name": "Beamable Trials (Basic)",
