@@ -1,7 +1,7 @@
 url: https://api.beamable.com/object/commerce/platform/docs
-status: degraded
-code: 503
-responseTime: 12787
-lastUpdated: 2024-04-18T04:09:19.408Z
+status: up
+code: 200
+responseTime: 738
+lastUpdated: 2024-04-18T04:28:53.627Z
 startTime: 2024-02-09T11:46:45.841Z
 generator: Upptime <https://github.com/upptime/upptime>
