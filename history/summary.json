@@ -629,9 +629,9 @@
     "url": "https://api.beamable.com/api/health",
     "icon": "https://beamable.com/wp-content/uploads/2024/02/AdvancedTechnology_BLUE.png",
     "slug": "beamable-proto-actor-stack",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -640,7 +640,9 @@
     "timeWeek": 2,
     "timeMonth": 2,
     "timeYear": 6,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-21": 0
+    }
   },
   {
     "name": "Beamable Portal",
