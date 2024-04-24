@@ -632,18 +632,20 @@
     "url": "https://api.beamable.com/api/health",
     "icon": "https://beamable.com/wp-content/uploads/2024/02/AdvancedTechnology_BLUE.png",
     "slug": "beamable-proto-actor-stack",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6,
-    "timeDay": 6,
-    "timeWeek": 3,
-    "timeMonth": 2,
-    "timeYear": 6,
-    "dailyMinutesDown": {}
+    "time": 101,
+    "timeDay": 5004,
+    "timeWeek": 912,
+    "timeMonth": 288,
+    "timeYear": 101,
+    "dailyMinutesDown": {
+      "2024-04-24": 1
+    }
   },
   {
     "name": "Beamable Portal",
