@@ -450,18 +450,20 @@
     "url": "https://api.beamable.com/basic/session/platform/docs",
     "icon": "https://beamable.com/wp-content/uploads/2024/02/API_BLUE.png",
     "slug": "beamable-session-basic",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 177,
-    "timeDay": 8,
-    "timeWeek": 8,
-    "timeMonth": 383,
-    "timeYear": 177,
-    "dailyMinutesDown": {}
+    "time": 260,
+    "timeDay": 5015,
+    "timeWeek": 1259,
+    "timeMonth": 685,
+    "timeYear": 260,
+    "dailyMinutesDown": {
+      "2024-05-08": 0
+    }
   },
   {
     "name": "Beamable Realms (Basic)",
