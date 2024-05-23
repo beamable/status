@@ -157,7 +157,7 @@
     "time": 354,
     "timeDay": 10,
     "timeWeek": 7,
-    "timeMonth": 87,
+    "timeMonth": 53,
     "timeYear": 354,
     "dailyMinutesDown": {
       "2024-03-13": 16
@@ -323,12 +323,12 @@
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 421,
     "timeDay": 8,
     "timeWeek": 7,
-    "timeMonth": 423,
+    "timeMonth": 9,
     "timeYear": 421,
     "dailyMinutesDown": {
       "2024-04-23": 22,
@@ -380,12 +380,12 @@
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 338,
     "timeDay": 10,
     "timeWeek": 14,
-    "timeMonth": 1107,
+    "timeMonth": 784,
     "timeYear": 338,
     "dailyMinutesDown": {
       "2024-04-23": 18
@@ -524,18 +524,20 @@
     "url": "https://api.beamable.com/object/calendars/platform/docs",
     "icon": "https://beamable.com/wp-content/uploads/2024/02/Beamable_BLUE.png",
     "slug": "beamable-calendars-basic",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 417,
-    "timeDay": 11,
-    "timeWeek": 76,
-    "timeMonth": 87,
-    "timeYear": 417,
-    "dailyMinutesDown": {}
+    "time": 525,
+    "timeDay": 7082,
+    "timeWeek": 1836,
+    "timeMonth": 628,
+    "timeYear": 525,
+    "dailyMinutesDown": {
+      "2024-05-23": 0
+    }
   },
   {
     "name": "Beamable Event Players (Object)",
