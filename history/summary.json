@@ -524,19 +524,19 @@
     "url": "https://api.beamable.com/object/calendars/platform/docs",
     "icon": "https://beamable.com/wp-content/uploads/2024/02/Beamable_BLUE.png",
     "slug": "beamable-calendars-basic",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 525,
-    "timeDay": 7082,
-    "timeWeek": 1836,
-    "timeMonth": 628,
-    "timeYear": 525,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 522,
+    "timeDay": 4765,
+    "timeWeek": 1646,
+    "timeMonth": 609,
+    "timeYear": 522,
     "dailyMinutesDown": {
-      "2024-05-23": 0
+      "2024-05-23": 11
     }
   },
   {
