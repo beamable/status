@@ -524,18 +524,20 @@
     "url": "https://api.beamable.com/object/calendars/platform/docs",
     "icon": "https://beamable.com/wp-content/uploads/2024/02/Beamable_BLUE.png",
     "slug": "beamable-calendars-basic",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 515,
-    "timeDay": 16,
-    "timeWeek": 1634,
-    "timeMonth": 609,
-    "timeYear": 515,
-    "dailyMinutesDown": {}
+    "time": 611,
+    "timeDay": 6531,
+    "timeWeek": 2775,
+    "timeMonth": 1053,
+    "timeYear": 611,
+    "dailyMinutesDown": {
+      "2024-05-25": 0
+    }
   },
   {
     "name": "Beamable Event Players (Object)",
