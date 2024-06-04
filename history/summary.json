@@ -525,18 +525,18 @@
     "icon": "https://beamable.com/wp-content/uploads/2024/02/Beamable_BLUE.png",
     "slug": "beamable-calendars-basic",
     "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 686,
     "timeDay": 7216,
     "timeWeek": 2186,
     "timeMonth": 1491,
     "timeYear": 686,
     "dailyMinutesDown": {
-      "2024-06-04": 0
+      "2024-06-04": 11
     }
   },
   {
