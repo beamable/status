@@ -96,9 +96,9 @@
     "slug": "beamable-inventory-object",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.31%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 368,
     "timeDay": 5655,
@@ -106,7 +106,6 @@
     "timeMonth": 1120,
     "timeYear": 368,
     "dailyMinutesDown": {
-      "2024-06-05": 9,
       "2024-06-04": 16
     }
   },
@@ -248,18 +247,20 @@
     "url": "https://api.beamable.com/object/payments/platform/docs",
     "icon": "https://beamable.com/wp-content/uploads/2024/02/Payments_BLUE.png",
     "slug": "beamable-payments-object",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 58,
-    "timeDay": 15,
-    "timeWeek": 8,
+    "timeDay": 13,
+    "timeWeek": 9,
     "timeMonth": 13,
     "timeYear": 58,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-05": 0
+    }
   },
   {
     "name": "Beamable Commerce (Basic)",
