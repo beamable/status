@@ -229,18 +229,20 @@
     "url": "https://api.beamable.com/basic/payments/platform/docs",
     "icon": "https://beamable.com/wp-content/uploads/2024/02/Payments_BLUE.png",
     "slug": "beamable-payments-basic",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 52,
-    "timeDay": 10,
+    "timeDay": 11,
     "timeWeek": 13,
-    "timeMonth": 54,
+    "timeMonth": 53,
     "timeYear": 52,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-05": 0
+    }
   },
   {
     "name": "Beamable Payments (Object)",
@@ -248,18 +250,18 @@
     "icon": "https://beamable.com/wp-content/uploads/2024/02/Payments_BLUE.png",
     "slug": "beamable-payments-object",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 58,
     "timeDay": 13,
     "timeWeek": 9,
     "timeMonth": 13,
     "timeYear": 58,
     "dailyMinutesDown": {
-      "2024-06-05": 0
+      "2024-06-05": 9
     }
   },
   {
