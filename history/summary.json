@@ -96,9 +96,9 @@
     "slug": "beamable-inventory-object",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.35%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 304,
     "timeDay": 5886,
@@ -106,7 +106,7 @@
     "timeMonth": 839,
     "timeYear": 304,
     "dailyMinutesDown": {
-      "2024-06-04": 24
+      "2024-06-04": 16
     }
   },
   {
@@ -454,9 +454,9 @@
     "slug": "beamable-session-basic",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 284,
     "timeDay": 3345,
@@ -464,7 +464,6 @@
     "timeMonth": 675,
     "timeYear": 284,
     "dailyMinutesDown": {
-      "2024-06-04": 7,
       "2024-05-08": 28
     }
   },
@@ -529,12 +528,12 @@
     "slug": "beamable-calendars-basic",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.64%",
+    "uptimeDay": "99.38%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 677,
-    "timeDay": 4486,
+    "timeDay": 85,
     "timeWeek": 1948,
     "timeMonth": 1449,
     "timeYear": 677,
