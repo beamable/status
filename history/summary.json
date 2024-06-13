@@ -132,18 +132,20 @@
     "url": "https://api.beamable.com/object/stats/platform/docs",
     "icon": "https://beamable.com/wp-content/uploads/2024/02/Analytics_BLUE.png",
     "slug": "beamable-stats-object",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 129,
-    "timeDay": 7,
-    "timeWeek": 9,
-    "timeMonth": 24,
-    "timeYear": 129,
-    "dailyMinutesDown": {}
+    "time": 193,
+    "timeDay": 5015,
+    "timeWeek": 1261,
+    "timeMonth": 337,
+    "timeYear": 193,
+    "dailyMinutesDown": {
+      "2024-06-13": 0
+    }
   },
   {
     "name": "Beamable Leaderboards (Basic)",
