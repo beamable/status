@@ -1,7 +1,7 @@
 url: https://api.beamable.com/object/tournaments/platform/docs
-status: up
-code: 200
-responseTime: 23
-lastUpdated: 2024-07-18T23:04:26.575Z
+status: degraded
+code: 503
+responseTime: 12783
+lastUpdated: 2024-07-19T04:03:10.347Z
 startTime: 2024-02-09T11:46:40.390Z
 generator: Upptime <https://github.com/upptime/upptime>
