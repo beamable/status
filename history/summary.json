@@ -134,18 +134,16 @@
     "slug": "beamable-stats-object",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 255,
     "timeDay": 3345,
     "timeWeek": 1182,
     "timeMonth": 642,
     "timeYear": 255,
-    "dailyMinutesDown": {
-      "2024-07-28": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Beamable Leaderboards (Basic)",
@@ -625,18 +623,19 @@
     "url": "https://api.beamable.com/object/group-users/platform/docs",
     "icon": "https://beamable.com/wp-content/uploads/2024/02/Guilds_BLUE.png",
     "slug": "beamable-group-users-object",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
-    "time": 91,
-    "timeDay": 8,
-    "timeWeek": 9,
-    "timeMonth": 408,
-    "timeYear": 91,
+    "time": 118,
+    "timeDay": 2677,
+    "timeWeek": 676,
+    "timeMonth": 558,
+    "timeYear": 118,
     "dailyMinutesDown": {
+      "2024-07-28": 1,
       "2024-07-13": 28
     }
   },
