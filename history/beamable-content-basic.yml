@@ -1,7 +1,7 @@
 url: https://api.beamable.com/basic/content/platform/docs
-status: degraded
+status: up
 code: 200
-responseTime: 5026
-lastUpdated: 2024-08-20T23:30:52.725Z
+responseTime: 9
+lastUpdated: 2024-08-20T23:39:08.700Z
 startTime: 2024-02-09T16:51:12.886Z
 generator: Upptime <https://github.com/upptime/upptime>
