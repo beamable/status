@@ -1,7 +1,7 @@
 url: https://api.beamable.com/object/inventory/platform/docs
-status: degraded
-code: 504
-responseTime: 10019
-lastUpdated: 2024-09-01T16:10:59.393Z
+status: up
+code: 200
+responseTime: 725
+lastUpdated: 2024-09-01T16:24:44.764Z
 startTime: 2024-02-09T10:41:55.737Z
 generator: Upptime <https://github.com/upptime/upptime>
