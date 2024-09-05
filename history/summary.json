@@ -233,18 +233,20 @@
     "url": "https://api.beamable.com/basic/payments/platform/docs",
     "icon": "https://beamable.com/wp-content/uploads/2024/02/Payments_BLUE.png",
     "slug": "beamable-payments-basic",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 41,
-    "timeDay": 10,
-    "timeWeek": 11,
-    "timeMonth": 11,
-    "timeYear": 41,
-    "dailyMinutesDown": {}
+    "time": 96,
+    "timeDay": 6370,
+    "timeWeek": 1601,
+    "timeMonth": 422,
+    "timeYear": 96,
+    "dailyMinutesDown": {
+      "2024-09-05": 0
+    }
   },
   {
     "name": "Beamable Payments (Object)",
