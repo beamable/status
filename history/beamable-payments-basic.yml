@@ -1,7 +1,7 @@
 url: https://api.beamable.com/basic/payments/platform/docs
-status: up
-code: 200
-responseTime: 10
-lastUpdated: 2024-09-04T23:04:14.674Z
+status: degraded
+code: 500
+responseTime: 12729
+lastUpdated: 2024-09-05T14:07:21.021Z
 startTime: 2024-02-09T11:46:41.398Z
 generator: Upptime <https://github.com/upptime/upptime>
