@@ -1,7 +1,7 @@
 url: https://api.beamable.com/object/calendars/platform/docs
-status: up
-code: 200
-responseTime: 13
-lastUpdated: 2024-10-04T23:04:14.755Z
+status: degraded
+code: 503
+responseTime: 13563
+lastUpdated: 2024-10-05T06:04:14.978Z
 startTime: 2024-02-09T12:37:52.342Z
 generator: Upptime <https://github.com/upptime/upptime>
