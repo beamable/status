@@ -4,19 +4,19 @@
     "url": "https://api.beamable.com/basic/auth/platform/docs",
     "icon": "https://beamable.com/wp-content/uploads/2024/02/Profiles_BLUE.png",
     "slug": "beamable-auth-basic",
-    "status": "degraded",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 103,
-    "timeDay": 1627,
-    "timeWeek": 462,
-    "timeMonth": 170,
-    "timeYear": 103,
+    "time": 102,
+    "timeDay": 1106,
+    "timeWeek": 418,
+    "timeMonth": 167,
+    "timeYear": 102,
     "dailyMinutesDown": {
-      "2024-12-10": 0
+      "2024-12-10": 12
     }
   },
   {
