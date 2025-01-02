@@ -22,19 +22,19 @@
     "url": "https://api.beamable.com/basic/content/platform/docs",
     "icon": "https://beamable.com/wp-content/uploads/2024/02/Content_BLUE.png",
     "slug": "beamable-content-basic",
-    "status": "degraded",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 115,
-    "timeDay": 5015,
-    "timeWeek": 1263,
-    "timeMonth": 329,
-    "timeYear": 115,
+    "time": 114,
+    "timeDay": 3346,
+    "timeWeek": 1124,
+    "timeMonth": 319,
+    "timeYear": 114,
     "dailyMinutesDown": {
-      "2025-01-02": 0
+      "2025-01-02": 12
     }
   },
   {
