@@ -366,19 +366,19 @@
     "url": "https://api.beamable.com/object/mail/platform/docs",
     "icon": "https://beamable.com/wp-content/uploads/2024/02/Mail_BLUE.png",
     "slug": "beamable-mail-object",
-    "status": "degraded",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 128,
-    "timeDay": 5011,
-    "timeWeek": 1258,
-    "timeMonth": 322,
+    "timeDay": 3386,
+    "timeWeek": 1134,
+    "timeMonth": 316,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2025-01-10": 1
+      "2025-01-10": 13
     }
   },
   {
