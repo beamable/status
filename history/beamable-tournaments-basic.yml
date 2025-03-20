@@ -1,7 +1,7 @@
 url: https://api.beamable.com/basic/tournaments/platform/docs
-status: up
-code: 200
-responseTime: 15
-lastUpdated: 2025-03-19T23:04:43.572Z
+status: down
+code: 403
+responseTime: 2
+lastUpdated: 2025-03-20T08:01:52.047Z
 startTime: 2024-02-09T11:46:39.910Z
 generator: Upptime <https://github.com/upptime/upptime>
