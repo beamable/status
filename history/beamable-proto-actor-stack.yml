@@ -1,7 +1,7 @@
 url: https://api.beamable.com/api/health
-status: up
-code: 200
+status: down
+code: 403
 responseTime: 2
-lastUpdated: 2025-03-19T23:04:52.099Z
+lastUpdated: 2025-03-20T08:02:50.837Z
 startTime: 2024-02-09T12:08:31.827Z
 generator: Upptime <https://github.com/upptime/upptime>
