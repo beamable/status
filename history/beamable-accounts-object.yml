@@ -1,7 +1,7 @@
 url: https://api.beamable.com/object/accounts/platform/docs
-status: down
-code: 403
-responseTime: 6
-lastUpdated: 2025-03-20T08:01:35.477Z
+status: up
+code: 200
+responseTime: 7
+lastUpdated: 2025-03-20T08:14:38.027Z
 startTime: 2024-02-09T10:41:54.943Z
 generator: Upptime <https://github.com/upptime/upptime>
