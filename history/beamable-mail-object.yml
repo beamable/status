@@ -1,7 +1,7 @@
 url: https://api.beamable.com/object/mail/platform/docs
-status: down
-code: 403
-responseTime: 2
-lastUpdated: 2025-03-20T08:02:13.027Z
+status: up
+code: 200
+responseTime: 7
+lastUpdated: 2025-03-20T08:15:34.497Z
 startTime: 2024-02-09T11:46:50.438Z
 generator: Upptime <https://github.com/upptime/upptime>
