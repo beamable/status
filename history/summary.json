@@ -166,19 +166,19 @@
     "url": "https://api.beamable.com/object/leaderboards/platform/docs",
     "icon": "https://beamable.com/wp-content/uploads/2024/02/Leaderboard_BLUE.png",
     "slug": "beamable-leaderboards-object",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 77,
-    "timeDay": 10433,
-    "timeWeek": 2613,
-    "timeMonth": 659,
+    "timeDay": 6957,
+    "timeWeek": 2323,
+    "timeMonth": 639,
     "timeYear": 69,
     "dailyMinutesDown": {
-      "2025-09-18": 1
+      "2025-09-18": 10
     }
   },
   {
