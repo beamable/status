@@ -22,18 +22,20 @@
     "url": "https://api.beamable.com/basic/content/platform/docs",
     "icon": "https://beamable.com/wp-content/uploads/2024/02/Content_BLUE.png",
     "slug": "beamable-content-basic",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 67,
-    "timeDay": 8,
-    "timeWeek": 196,
-    "timeMonth": 66,
-    "timeYear": 63,
-    "dailyMinutesDown": {}
+    "time": 79,
+    "timeDay": 3067,
+    "timeWeek": 938,
+    "timeMonth": 255,
+    "timeYear": 79,
+    "dailyMinutesDown": {
+      "2025-09-25": 0
+    }
   },
   {
     "name": "Beamable Accounts (Basic)",
@@ -174,7 +176,7 @@
     "uptimeYear": "100.00%",
     "time": 77,
     "timeDay": 8,
-    "timeWeek": 2324,
+    "timeWeek": 7,
     "timeMonth": 639,
     "timeYear": 69,
     "dailyMinutesDown": {}
@@ -518,7 +520,7 @@
     "timeDay": 10,
     "timeWeek": 12,
     "timeMonth": 15,
-    "timeYear": 119,
+    "timeYear": 84,
     "dailyMinutesDown": {}
   },
   {
